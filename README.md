@@ -12,4 +12,4 @@ But, it shows only one line...
     - 3. It must word for at least the words you added. :D
 
 - Here, I have used Trie Data Structure.
-- @https://github.com/bot-7037 helped me a lot in JS (Cheers for NIGGA!!)
+- @bot-7037 helped me a lot in JS (Cheers for NIGGA!!)
